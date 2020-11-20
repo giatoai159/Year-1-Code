@@ -2,4 +2,5 @@
 Code trong khoảng thời gian học Kĩ thuật lập trình và Nhập môn lập trình
 
 # Bài tập phụ - C/C++
-1.  Print hình với n có trước
+1.  Các bài tập NMLT: File pdf trong folder
+2.  Print hình vuông với n có trước
