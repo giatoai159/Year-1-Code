@@ -1,6 +1,8 @@
 # Kĩ thuật lập trình, Nhập môn lập trình
 Code trong khoảng thời gian học Kĩ thuật lập trình và Nhập môn lập trình
-
+# Đồ án game hangman KTLT - C++
+![Hangman](https://raw.githubusercontent.com/giatoai159/Year-1-Code/main/Hangman.png)
+# Coding Practices
 1.  Các bài tập NMLT: File pdf trong folder, Week 11: Tính toán phân số
 2.  Print hình vuông với n có trước
 3.  Ôn thi KTLT
