@@ -4,4 +4,9 @@ Code trong khoảng thời gian học Kĩ thuật lập trình và Nhập môn l
 # Bài tập phụ - C/C++
 1.  Các bài tập NMLT: File pdf trong folder, Week 11: Tính toán phân số
 2.  Print hình vuông với n có trước
-
+3.  Ôn thi KTLT
+	1.  Vẽ hình kim cương
+	2.	Tìm số nguyên tố thứ n
+	3.	Đọc ghi tính toán pt bậc 2
+	4.  Tính mũ không dùng phép nhân
+	5.  pageInked, transferStr: https://drive.google.com/file/d/16PPEZfjqq1Y6qQPuI3iG4GCCDjz5XjDk/view?usp=sharing
